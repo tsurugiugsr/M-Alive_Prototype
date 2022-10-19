@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+M_Alive_Prototype_Build in M_Alive_Prototype, no dependencies
+M_Alive_Prototype in M_Alive_Prototype, depends on:
+M_Alive_Prototype_Build in M_Alive_Prototype (explicit)

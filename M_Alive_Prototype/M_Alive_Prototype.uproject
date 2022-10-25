@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{9F0BED71-FE42-C188-330A-90A33936D7EE}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -17,6 +17,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
 		}
 	]
 }

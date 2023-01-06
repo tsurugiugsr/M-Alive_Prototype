@@ -69,7 +69,13 @@ M_Alive_Prototype/Saved/*
 # Compiled source files for the engine to use
 M_Alive_Prototype/Intermediate/*
 M_Alive_Prototype/Plugins/*/Intermediate/*
+LegacyPlugins/Intermediate/*
+LegacyPlugins/*/Intermediate/*
 
 # Cache files for the editor to use
 M_Alive_Prototype/DerivedDataCache/*
 .DS_Store
+M_Alive_Prototype/Content/*
+
+
+

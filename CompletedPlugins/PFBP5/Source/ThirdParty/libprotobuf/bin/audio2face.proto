@@ -1,0 +1,19 @@
+syntax = "proto3";
+package tutorial;
+
+message Request{
+  // 请求
+  string content = 1;
+  string tts_type = 2;
+
+}
+
+
+message Response{
+  // // 响应体
+  string content = 1;
+  float emotion = 2;
+  repeated float bs_value = 3;
+  repeated string bs_key = 4;
+  bytes wav_data = 5;
+}

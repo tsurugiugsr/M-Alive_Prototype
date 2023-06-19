@@ -76,6 +76,6 @@ LegacyPlugins/*/Intermediate/*
 M_Alive_Prototype/DerivedDataCache/*
 .DS_Store
 M_Alive_Prototype/Content/*
-
+*.apk
 
 

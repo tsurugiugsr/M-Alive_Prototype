@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "1.3",
+	"FriendlyName": "CryptoHelper",
+	"Description": "Plugin exposing easy to use cryptographic algorithm for security purposes",
+	"Category": "Security",
+	"CreatedBy": "RLoris",
+	"CreatedByURL": "https://rloris.github.io",
+	"DocsURL": "https://github.com/RLoris/CryptoHelperDoc",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/83e5202838f84cf0a3310eee815ce5cd",
+	"SupportURL": "",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CryptoHelper",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Mac"
+			]
+		}
+	]
+}
